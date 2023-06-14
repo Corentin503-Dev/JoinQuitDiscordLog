@@ -1,0 +1,4 @@
+webhook: "" #url du webhook
+
+join: "{player} à rejoins le serveur"
+quit: "{player} à quitter le serveur"
